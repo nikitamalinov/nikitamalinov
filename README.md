@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @nikitamalinov
-- 👀 I’m interested in front-end/full stack web development.
-- 🌱 I’m currently a senior at UC Irvine looking forward to work as a software engineer.
-- 📫 Reach me by email at nikita@malinovsky.net or on [linkedin](https://www.linkedin.com/in/nikita-malinovsky/).
-
+- 👀 I’m a Software Engineer passionate about startups.
+- 🔧 I have experience building full-stack applications with PERN and MERN stacks.
+- 📫 Feel free to reach me by email at nikita@malinovsky.net or on [linkedin](https://www.linkedin.com/in/nikita-malinovsky/).
